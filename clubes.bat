@@ -1,8 +1,8 @@
+md "clubes"
 cd "clubes"
 md "serie a"
-cd..
 md "serie b"
-cd..
+cd "serie a"
 md "Atlético-MG" "Palmeiras" "Fortaleza" "Bragantino" "Flamengo" "Athletico-PR" "Atlético-GO" "Ceará" "Internacional" "Santos" "Corinthians" "Juventude" "Bahia"
 "São Paulo" "Fluminense" "Cuiabá" "Sport" "América-MG" "Grêmio" "Chapecoense"
 cd ..
